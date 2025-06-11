@@ -1,0 +1,74 @@
+/* Fonte do body: Maiandra GD */
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Maiandra GD", sans-serif;
+    background-color: rgb(154, 210, 224);
+}
+
+/* Cabeçalho */
+.cabecalho {
+    color: white;
+    background-color: rgb(16, 91, 110);
+    padding: 38px 0;
+    font-family: "Fun Frog", cursive; /* Mantém essa fonte só no cabeçalho */
+}
+
+/* H3 dentro do cabeçalho */
+.cabecalho h3 {
+    color: #faf8f8;
+}
+
+/* Barra de navegação */
+.cor {
+    background-color: rgb(63, 131, 148);
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+
+
+/* Títulos das seções */
+h2 {
+    font-family: "Maiandra GD", sans-serif;
+    margin-bottom: 1.5rem;
+    color: rgb(63, 131, 148); 
+}
+
+/* Parágrafos */
+p {
+    font-family: "Maiandra GD", sans-serif;
+    color: black; 
+    text-align: justify;
+}
+
+
+.card-text {
+    font-family: "Maiandra GD", sans-serif;
+}
+
+/* Imagens arredondadas */
+.img-fluid.rounded {
+    border-radius: 15px;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+
+.footer {
+    background-color: rgb(16, 91, 110);
+    color: white;
+    text-align: center;
+    padding: 5px;
+    justify-content: center; 
+    align-items: center;
+}
+.p2 {
+    color: white;
+    text-align: center;
+    justify-content: center; 
+    align-items: center;
+     padding: 5px;
+}
